@@ -38,12 +38,12 @@ ImageSlideshow/
 
 # 需要替换的占位文件
 |文件	|用途	|建议尺寸
-|res/raw/slide_*.jpg	|轮播图片	|1080×1920 px
-|res/mipmap-mdpi/ic_launcher*.png	|应用图标	|48×48 px
-|res/mipmap-hdpi/ic_launcher*.png	|应用图标	|72×72 px
-|res/mipmap-xhdpi/ic_launcher*.png	|应用图标	|96×96 px
-|res/mipmap-xxhdpi/ic_launcher*.png	|应用图标	|144×144 px
-|res/mipmap-xxxhdpi/ic_launcher*.png	|应用图标	|192×192 px
+|res/raw/slide_*.jpg	|轮播图片	|1080×1920 px|
+|res/mipmap-mdpi/ic_launcher*.png	|应用图标	|48×48 px|
+|res/mipmap-hdpi/ic_launcher*.png	|应用图标	|72×72 px|
+|res/mipmap-xhdpi/ic_launcher*.png	|应用图标	|96×96 px|
+|res/mipmap-xxhdpi/ic_launcher*.png	|应用图标	|144×144 px|
+|res/mipmap-xxxhdpi/ic_launcher*.png	|应用图标	|192×192 px|
 
 # GitHub Actions 使用方法
 1. 将项目推送到 GitHub 仓库
