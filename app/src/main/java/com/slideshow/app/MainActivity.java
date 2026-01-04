@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
     private int currentIndex = 0;
 
     // 轮播间隔时间（毫秒）
-    private static final long SLIDE_INTERVAL = 3000;
+    private static final long SLIDE_INTERVAL = 10000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
