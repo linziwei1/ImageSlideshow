@@ -2,7 +2,7 @@
 一个兼容安卓4.4.4的图片轮播程序
 
 # 项目结构
-
+```
 ImageSlideshow/
 ├── .github/workflows/build.yml    # GitHub Actions 自动打包脚本
 ├── app/
@@ -26,6 +26,7 @@ ImageSlideshow/
 ├── build.gradle                   # 根级 Gradle 配置
 ├── settings.gradle
 └── gradlew.bat                    # Windows Gradle 脚本
+```
 
 # 功能特性
 - 兼容 Android 4.4.4 (API 19)
@@ -36,13 +37,13 @@ ImageSlideshow/
 - 3秒轮播间隔 - 可在 MainActivity.java:31 修改
 
 # 需要替换的占位文件
-文件	用途	建议尺寸
-res/raw/slide_*.jpg	轮播图片	1080×1920 px
-res/mipmap-mdpi/ic_launcher*.png	应用图标	48×48 px
-res/mipmap-hdpi/ic_launcher*.png	应用图标	72×72 px
-res/mipmap-xhdpi/ic_launcher*.png	应用图标	96×96 px
-res/mipmap-xxhdpi/ic_launcher*.png	应用图标	144×144 px
-res/mipmap-xxxhdpi/ic_launcher*.png	应用图标	192×192 px
+|文件	|用途	|建议尺寸
+|res/raw/slide_*.jpg	|轮播图片	|1080×1920 px
+|res/mipmap-mdpi/ic_launcher*.png	|应用图标	|48×48 px
+|res/mipmap-hdpi/ic_launcher*.png	|应用图标	|72×72 px
+|res/mipmap-xhdpi/ic_launcher*.png	|应用图标	|96×96 px
+|res/mipmap-xxhdpi/ic_launcher*.png	|应用图标	|144×144 px
+|res/mipmap-xxxhdpi/ic_launcher*.png	|应用图标	|192×192 px
 
 # GitHub Actions 使用方法
 1. 将项目推送到 GitHub 仓库

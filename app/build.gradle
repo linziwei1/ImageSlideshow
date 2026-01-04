@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'com.slideshow.app'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.slideshow.app"
         minSdk 19  // Android 4.4 KitKat
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
     }
