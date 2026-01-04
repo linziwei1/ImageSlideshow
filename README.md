@@ -37,7 +37,8 @@ ImageSlideshow/
 - 3秒轮播间隔 - 可在 MainActivity.java:31 修改
 
 # 需要替换的占位文件
-|文件	|用途	|建议尺寸
+|文件	|用途	|建议尺寸|
+| ----- | ----- | ----- |
 |res/raw/slide_*.jpg	|轮播图片	|1080×1920 px|
 |res/mipmap-mdpi/ic_launcher*.png	|应用图标	|48×48 px|
 |res/mipmap-hdpi/ic_launcher*.png	|应用图标	|72×72 px|
